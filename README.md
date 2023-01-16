@@ -1,6 +1,6 @@
 # Throwing Candies
 
-Physics-based puzzle video game for Android and iOS created in 2012 by Carlos And Ali.
+Physics-based puzzle video game for Android and iOS published in 2014 by Carlos And Ali.
 
 ## History:
 
