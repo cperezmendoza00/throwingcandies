@@ -11,18 +11,17 @@ We bought 2 mac mini and started our brainstorming. After some time we had the i
 That's how **Throwing Candies** was born it was published in the AppStore and Playstore (not available anymore since we didn't mantain for new OS versions)
 
 ## Details:
+- Created using [Gideros](http://giderosmobile.com/) open source framework that provides the cross-platform technology
 - [Website](http://giderosmobile.com/apps/throwing-candies)
 - [Gameplay on Youtube](https://youtu.be/Rwb_z-Zro6M)
+- [Download APK (for android) here](https://github.com/cperezmendoza00/throwingcandies/blob/main/ThrowingCandies.apk)
 - Language: Lua *lightweight, high-level, multi-paradigm programming language designed primarily for embedded use in applications*
 - Box2D: *Box2D is a free open source 2-dimensional physics simulator engine written in C++*
-- [Download APK (for android) here](https://github.com/cperezmendoza00/throwingcandies/blob/main/ThrowingCandies.apk)
 
 ### Main Screen:
 <img src="https://raw.githubusercontent.com/cperezmendoza00/throwingcandies/main/screenshots/1673886901777.jpg" alt="drawing" width="400"/>
 
 ### Initial Screen:
-[Gideros](http://giderosmobile.com/) is free and open sourced and provides the cross-platform technology to create amazing games
-
 <img src="https://raw.githubusercontent.com/cperezmendoza00/throwingcandies/main/screenshots/1673886901878.jpg" alt="drawing" width="400"/>
 
 ### Config Screen:
