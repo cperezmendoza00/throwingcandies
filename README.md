@@ -15,6 +15,7 @@ That's how **Throwing Candies** was born it was published in the AppStore and Pl
 - [Gameplay on Youtube](https://youtu.be/Rwb_z-Zro6M)
 - Language: Lua *lightweight, high-level, multi-paradigm programming language designed primarily for embedded use in applications*
 - Box2D: *Box2D is a free open source 2-dimensional physics simulator engine written in C++*
+- [Download APK (for android) here](https://github.com/cperezmendoza00/throwingcandies/blob/main/ThrowingCandies.apk)
 
 ### Main Screen:
 <img src="https://raw.githubusercontent.com/cperezmendoza00/throwingcandies/main/screenshots/1673886901777.jpg" alt="drawing" width="400"/>
